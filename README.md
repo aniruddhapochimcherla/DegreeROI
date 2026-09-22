@@ -155,8 +155,8 @@ DegreeROI/
 
 **Aniruddha Pochimcherla**
 
-Built as a data analytics portfolio project to demonstrate data integration, SQL-based transformation, feature engineering, interactive visualization, and deployment.
+I built this as a data analytics portfolio project to demonstrate data integration, SQL-based transformation, feature engineering, interactive visualization, and deployment.
 
 ## Disclaimer
 
-This project is for exploratory and educational purposes. It should not be treated as financial, career, or educational advice.
+This project is for exploratory and educational purposes. Please do not treat this as financial, career, or educational advice, though it might be a good tool to explore predictive outcomes for each career path, especially if you are undecided on your major.
